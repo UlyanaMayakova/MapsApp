@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsApp</string>
+    <string name="mapHint">Координаты или название места</string>
+    <string name="search">Поиск</string>
+</resources>
